@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h4 align="left">I am a full-stack web developer with proficiency in MERN stack. I also have experience in Django.
-I love developing software and thrill of being able to make anything I can think of keeps me going.</h4>
+<h3 align="left">I am a full-stack web developer with proficiency in MERN stack. I also have experience in Django.
+I love developing software and thrill of being able to make anything I can think of keeps me going.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfan15&label=Profile%20views&color=0e75b6&style=flat" alt="freakfan15" /> </p>
 <!-- 
@@ -33,7 +33,7 @@ I love developing software and thrill of being able to make anything I can think
     <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></td>
   </tr>
   <tr>
-    <td>Cloud Services</td>
+    <td>Cloud</td>
     <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></td>
   </tr>
   <tr>

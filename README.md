@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="left">I am a full-stack web developer with proficiency in MERN stack. I also have experience in Django.
-I love developing software and thrill of being able to make anything I can think of keeps me going.</h3>
+<h3 align="left">I am a full-stack web developer.
+In the backend, I have experience with Nodejs and have been using MongoDB and Postgresql as databases.
+In the front end, I can build complex systems with React using redux for state management.
+Recently I have been using the RTK query from Redux Toolkit for API caching, thereby making the UI feel faster.
+I can deploy full-stack applications in AWS using docker + Nginx. I have successfully integrated CI/CD in applications using GitHub Actions.
+I love developing software, and the thrill of being able to make anything I can think of keeps me going.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfan15&label=Profile%20views&color=0e75b6&style=flat" alt="freakfan15" /> </p>
 <!-- 

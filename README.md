@@ -14,9 +14,9 @@ I love developing software, and the thrill of being able to make anything I can 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivek_raiii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="vivek_raiii" height="40" width="40" /></a>
+<a href="https://twitter.com/vivek_raiii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="vivek_raiii" height="40" width="100" /></a>
 <a href="https://www.linkedin.com/in/vivek--kumar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/vivek--kumar/" height="40" width="40" /></a>
-<a href="https://blogs.vivekkumar.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vivekkumar" height="40" width="40" /></a>
+<a href="https://blogs.vivekkumar.tech" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" alt="vivekkumar" height="40" width="100" /></a>
 
 <h3 align="left">My Tech Stack:</h3>
 <table>

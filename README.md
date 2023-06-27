@@ -50,6 +50,6 @@ I love developing software, and the thrill of being able to make anything I can 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freakfan15&show_icons=true&locale=en&layout=compact" alt="freakfan15" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freakfan15&show_icons=true&theme=tokyonight" alt="freakfan15" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freakfan15&show_icons=true&theme=tokyonight" alt="freakfan15" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfan15&" alt="freakfan15" /></p> -->

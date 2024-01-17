@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h4 align="left">
-🚀 Backend wizard by day, frontend ninja by night, I juggle Node.js, Django, and an ensemble of databases (PostgreSQL, MariaDB, MongoDB). React? Redux? RTK Query? Check, check, and double-check! I deploy with Docker, make clouds (AWS, Azure) rain data, and Nginx is my trusty steed. CI/CD? GitHub Actions is my playground. When not in the digital trenches, you'll find me charting bike rides to the mountains - my kind of adventure!. I love low level languages and currently diving deep into Rust.</h4>
+🚀 Full Stack Engineer! I juggle Node.js, Django, and an ensemble of databases (PostgreSQL, MariaDB, MongoDB). React? Redux? RTK Query? Check, check, and double-check! I deploy with Docker, make clouds (AWS, Azure) rain data, and Nginx is my trusty steed. CI/CD? GitHub Actions is my playground. When not in the digital trenches, you'll find me charting bike rides to the mountains - my kind of adventure!. I love low level languages and currently diving deep into Rust.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfan15&label=Profile%20views&color=0e75b6&style=flat" alt="freakfan15" /> </p>
 <!-- 
